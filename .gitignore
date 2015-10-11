@@ -1,0 +1,9 @@
+.metadata
+.recommenders
+WordCountProcessor/hw1.txt
+WordCountProcessor/input.txt
+WordCountProcessor/output
+WordCountProcessor/bin
+WordCountProcessor/.classpath
+WordCountProcessor/.project
+WordCountProcessor/.settings

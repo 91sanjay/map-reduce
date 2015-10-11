@@ -8,7 +8,7 @@ This repo contains Java Projects to understand and solve problems using Hadoop M
 2. Install hadoop 2.6.0
 
 ## Run
-To run the code
+####To run the code
 1. Extract the java file into a JAR
 2. Use the command hadoop jar yourjar.jar com/sanjay/mapreduce/yourclass input.txt output
 
